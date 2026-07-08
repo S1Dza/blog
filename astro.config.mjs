@@ -11,6 +11,7 @@ export default defineConfig({
   site: 'https://example.com',
   integrations: [mdx(), sitemap()],
 
+
   fonts: [
       {
           provider: fontProviders.local(),
@@ -36,5 +37,8 @@ export default defineConfig({
       },
 	],
 
-  adapter: cloudflare(),
+  // Default 'cloudflare' image service needs the runtime IMAGES binding
+  // (Cloudflare Images), which isn't provisioned -> /_image 404s. 'passthrough'
+  // serves the build-time static assets directly (images already downsized).
+  adapter: cloudflare({ imageService: 'passthrough' }),
 });

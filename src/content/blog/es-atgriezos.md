@@ -8,7 +8,7 @@ Liekas ļoti tipiski man, ka sāku rakstīt blogu Eirovīzijas laikā un aizmirs
 
 Man bija fotosesija! Mēģināšu ielikt bildi ar sevi, bet nezinu, vai man sanāks. Bet tagad, esot uzņēmuma daļu turētājam (man jau, protams, patīk teikt, ka esmu uzņēmuma vadītājs, pat ja tā ir tikai viena piektdaļa), daudz kas jauns ir iegūts, uzzināts un piedzīvots.
 
-![Fotosesijas portrets](../../assets/fotosesija.jpg)
+![Fotosesijas portrets](/images/fotosesija.jpg)
 
 Nopirku savu pirmo gravel velosipēdu. Godīgi sakot, jau pagājušovasar gribēju, bet nekad neatradu motivāciju un pareizo variantu sev. Tagad ar Claude Code un sava kolēģa Artūra iedvesmu izveidoju prastu SS.com scraperi + savienoju ar Telegram botu, lai tas sūtītu paziņojumus par katru jauno sludinājumu, un pēc 2 nedēļu gaidīšanas atradu īsto, kuru nosūtīt tēvam uz ekspertīzi. Viņš tad deva savu akceptu pirkt.
 
@@ -22,9 +22,9 @@ Pa pašiem kalniem izdevās pabūt gan ar elektrovelosipēdu — tradīcija, kur
 
 Turp un atpakaļ devos ar savu nu jau gadu veco Renault Arkana, un, godīgi sakot, šī mašīna ir viena no labākajām lietām, ko esmu savā dzīvē nopircis. Vienīgais - varēju neskopoties un paņemt maksimāli labāko "versiju". Bet bez tā - ļoti labs auto.
 
-![Tatri](../../assets/tatri-1.jpg)
+![Tatri](/images/tatri-1.jpg)
 
-![Tatri](../../assets/tatri-2.jpg)
+![Tatri](/images/tatri-2.jpg)
 
 Savādāk baigi nekā jauna nav. Ļoti gribētos rudenī aizbraukt uz Albāniju vai citu Vidusjūras valsti, lai mazliet atlaistos, bet to laikam var arī darīt vēlāk. Skaidrs, ka jebkas relatīvi tuvu (lasi: no Latvijas ap 1000 km) ir sasniedzams ar auto, bet tālāki sapņi - Islande, Spānija, Albānija - tur labāk jau vien lidot.
 
